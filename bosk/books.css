@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+table{
+    border-collapse: collapse;
+    margin: auto;
+    width: 80%;
+    background-color: white;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.header{
+    background-color: grey;
+    color: white;
+}
+
+
+.author{
+    color: darkblue;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+.title{
+    color: darkgreen;
+}
+
+.isbn{
+    color: brown;
+}
+
+.publisher{
+    color: purple;
+}
+
+.edition{
+    color: teal;
+}
+
+.price{
+    color: red;
+    font-weight: bold;
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+
+<books>
+    <book>
+        <title>Modern Web Development</title>
+        <author>John Smith</author>
+        <isbn>978-1234567890</isbn>
+        <publisher>TechPress</publisher>
+        <edition>3rd</edition>
+        <price>550</price>
+    </book>     
+
+    <book>
+        <title>Learning XML</title>
+        <author>Jane Doe</author>
+        <publisher>CodeHouse</publisher>
+        <price>420</price>
+    </book>
+
+    <book>
+        <title>Pride and prejudiceL</title>
+        <author>Jane Doe</author>
+        <publisher>CodeHouse</publisher>
+        <price>420</price>
+    </book>
+
+    <book>
+        <title>Harry Potter and the half blood prince</title>
+        <author>Jane Doe</author>
+        <publisher>CodeHouse</publisher>
+        <price>420</price>
+    </book>
+
+    <book>
+        <title>Oxford Dictionary</title>
+        <author>Jane Doe</author>
+        <edition>2nd</edition>
+        <price>420</price>
+    </book>
+
+    <book>
+        <title>Vagabond</title>
+        <author>Jane Doe</author>
+        <isbn>978-9876543210</isbn>
+        <publisher>CodeHouse</publisher>
+        <edition>2nd</edition>
+        <price>420</price>
+    </book>
+
+    <book>
+        <title></title>
+        <author>Jane Doe</author>
+        <publisher>CodeHouse</publisher>
+        <price>420</price>
+    </book>
+</books>
