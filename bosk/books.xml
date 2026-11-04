@@ -10,6 +10,11 @@
         <publisher>TechPress</publisher>
         <edition>3rd</edition>
         <price>550</price>
+        <price>550</price>
+        <edition>4th</edition>
+        <publisher>author</publisher>
+        <isbn>Web</isbn>
+        <title>Modern Web</title
     </book>     
 
     <book>
